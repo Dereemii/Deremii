@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
-body{
-    background-color: lightgray;
-}
-
 .bg-purple{
     background-color: palevioletred
 }
@@ -18,7 +14,13 @@ a {
 
 h1{
     font-family: 'Lobster', cursive;
-    font-size: 50px;
+    color: darkred
+}
+
+.titulo{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    font-weight: 800;
 }
 
 .img-titulo{
@@ -26,4 +28,18 @@ h1{
     border-color: crimson;
 }
 
+#contacto{
+    margin: auto;
+    text-align: center;
+}
 
+
+.bg-salmon{
+    background-color:#EBEDE9;
+
+}
+
+p{
+    line-height: 3rem;
+    font-size: 20px;
+}
