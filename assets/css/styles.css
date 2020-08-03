@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
+body{
+    background-color: lightgray;
+}
+
 .bg-purple{
     background-color: palevioletred
 }
-
 .iconos{
     font-size: 3rem;
 }
@@ -12,3 +15,15 @@ a {
     text-decoration: none;
     color: white;
 }
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+.img-titulo{
+    border-radius: 20%;
+    border-color: crimson;
+}
+
+
